@@ -143,6 +143,12 @@ machinectl login ubuntu1710
 ```
 
 ----
+
+## ~$ Demo time
+
+![demo](img/devilish.svg) <!-- .element: class="no-border" style="width: 40%" -->
+
+----
 <!-- .slide: class="half-slide" data-background="url(img/paulodiovani.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
 ### <i class="fa fa-user"></i> Paulo Diovani Gonçalves
