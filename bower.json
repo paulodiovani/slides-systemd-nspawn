@@ -5,7 +5,14 @@
     "Paulo Diovani <paulo@diovani.com>"
   ],
   "description": "Systemd-nspawn: The containers you already have",
-  "main": "index.html",
+  "main": [
+    "css/custom.css",
+    "img/*.{jpg,png,svg,gif}",
+    "js/*.js",
+    "content.md",
+    "cover.jpg",
+    "index.html"
+  ],
   "keywords": [
     "linux",
     "containers",
